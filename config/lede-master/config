@@ -2555,7 +2555,8 @@ CONFIG_PACKAGE_kmod-thunderx-net=y
 # CONFIG_PACKAGE_kmod-vmxnet3 is not set
 # CONFIG_PACKAGE_kmod-wwan is not set
 # end of Network Devices
-
+# VirtIO network driver
+CONFIG_PACKAGE_kmod-virtio-net=y
 #
 # Network Support
 #
